@@ -1,7 +1,10 @@
 ### Hi there 👋
 🔭I m currently working on Tidbeat Website<br/>
-🌱I am currently lerning Next.js
-
+🌱I am currently lerning Next.js<br/>
+ 💬 Ask me about HTML, CSS, Javascript, React.js<br/>
+ 📫 How to reach me:<br/></tb>
+  >Email: somyaprasad2705@gmail.com<br/>
+>LinkedIn: linkedin.com/in/somya-prasad-5a1964189
 
 <!--
 **Somya7/Somya7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
