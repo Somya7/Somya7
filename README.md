@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭I m currently working on Tidbeat Website<br/>
-🌱I am currently lerning Next.js<br/>
+🔭I m currently working on Karewise Website<br/>
+🌱I am currently  exploring world of Backend developement<br/>
  💬 Ask me about HTML, CSS, Javascript, React.js<br/>
  📫 How to reach me:<br/></tb>
   >Email: somyaprasad2705@gmail.com<br/>
