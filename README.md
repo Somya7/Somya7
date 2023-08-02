@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭I m currently working on Karewise Website<br/>
+🔭I m currently working on Fuze India Ride hailing app<br/>
 🌱I am currently  exploring world of Backend developement<br/>
- 💬 Ask me about HTML, CSS, Javascript, React.js<br/>
+ 💬 Ask me about HTML, CSS, Javascript, React.js, Node.js<br/>
  📫 How to reach me:<br/></tb>
   >Email: somyaprasad2705@gmail.com<br/>
 >LinkedIn: linkedin.com/in/somya-prasad-5a1964189
